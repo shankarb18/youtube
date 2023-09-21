@@ -1,1 +1,9 @@
 - We are creating react app clone of youtube
+- created watch page
+-  creaed head page
+- created sidebar
+- created comment section
+- create dvideo container 
+- cretaed demo page
+- created redux store
+- created slices for every single store
