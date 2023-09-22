@@ -45,7 +45,7 @@ const LiveChat = () => {
 
           dispatch(
             addMessage({
-              name: "Akshay Saini",
+              name: "Shankar Bhore",
               message: liveMessage,
             })
           );
