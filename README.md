@@ -7,3 +7,7 @@
 - cretaed demo page
 - created redux store
 - created slices for every single store
+- created all setup 
+- created live comment section 
+- created live Chat finctnality
+
