@@ -86,7 +86,7 @@ const Head = () => {
           <div className="fixed bg-white py-2 px-2 w-[37rem] shadow-lg rounded-lg border border-gray-100">
             <ul>
               {suggestions.map((s) => (
-                <li key={s} className="py-2 px-3 shadow-sm hover:bg-gray-100">
+                <li key={s} className="py-2 px-3 shadow-sm hover:bg-orange-200">
                   🔍 {s}
                 </li>
               ))}
