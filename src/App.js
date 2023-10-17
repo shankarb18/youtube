@@ -8,7 +8,7 @@ import Head from "./components/Head";
 import MainContainer from "./components/MainContainer";
 import WatchPage from "./components/WatchPage";
 import store from "./utils/store";
-
+import Footer from "./components/Footer";
 const appRouter = createBrowserRouter([
   {
     path: "/",
@@ -40,8 +40,9 @@ function App() {
     <Provider store={store}>
       <div>
         <Head />
+        
         <RouterProvider router={appRouter} />
-
+        <Footer/>
         {/**
          *
          * Head
