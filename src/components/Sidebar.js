@@ -10,7 +10,7 @@ const Sidebar = () => {
 
   return (
     <div className="p-10 shadow-lg w-48">
-      <ul>
+      <ul className="py-2 m-2">
         <li>
           <Link to="/">Home</Link>
         </li>
