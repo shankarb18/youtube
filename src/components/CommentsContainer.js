@@ -7,28 +7,28 @@ const commentsData = [
     replies: [],
   },
   {
-    name: "Shankar Bhore",
+    name: "Mukesh",
     text: "Lorem ipsum dolor sit amet, consectetur adip",
     replies: [
       {
-        name: "Shankar Bhore",
+        name: "Tushar",
         text: "Lorem ipsum dolor sit amet, consectetur adip",
         replies: [],
       },
       {
-        name: "Shankar Bhore",
+        name: "Rushi",
         text: "Lorem ipsum dolor sit amet, consectetur adip",
         replies: [
           {
-            name: "Shankar Bhore",
+            name: "Sagar",
             text: "Lorem ipsum dolor sit amet, consectetur adip",
             replies: [
               {
-                name: "Shankar Bhore",
+                name: "Ram",
                 text: "Lorem ipsum dolor sit amet, consectetur adip",
                 replies: [
                   {
-                    name: "Shankar Bhore",
+                    name: "Abhi",
                     text: "Lorem ipsum dolor sit amet, consectetur adip",
                     replies: [
                       {
@@ -39,7 +39,7 @@ const commentsData = [
                     ],
                   },
                   {
-                    name: "Shankar Bhore",
+                    name: "Avdoot",
                     text: "Lorem ipsum dolor sit amet, consectetur adip",
                     replies: [],
                   },
@@ -52,22 +52,22 @@ const commentsData = [
     ],
   },
   {
-    name: "Shankar Bhore",
+    name: "Jafar",
     text: "Lorem ipsum dolor sit amet, consectetur adip",
     replies: [],
   },
   {
-    name: "Shankar Bhore",
+    name: "Prajwal",
     text: "Lorem ipsum dolor sit amet, consectetur adip",
     replies: [],
   },
   {
-    name: "Shankar Bhore",
+    name: "Vaibhav",
     text: "Lorem ipsum dolor sit amet, consectetur adip",
     replies: [],
   },
   {
-    name: "Shankar Bhore",
+    name: "Sandip",
     text: "Lorem ipsum dolor sit amet, consectetur adip",
     replies: [],
   },
