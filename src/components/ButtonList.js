@@ -5,7 +5,7 @@ const list = ["All", "Live", "Gaming"];
 
 const ButtonList = () => {
   return (
-    <div className="flex">
+    <div className="flex px-10 py-4 gap-4 ">
       <Button name="All" />
       <Button name="Gaming" />
       <Button name="Songs" />
@@ -13,11 +13,11 @@ const ButtonList = () => {
       <Button name="Soccer" />
       <Button name="Cricket" />
       <Button name="Cooking" />
-      <Button name="Cricket" />
+      <Button name="Motivation" />
       <Button name="Valentines" />
-      <Button name="Cricket" />
+      <Button name="News" />
       <Button name="Cooking" />
-      <Button name="Cricket" />
+      <Button name="Travel;" />
     </div>
   );
 };
